@@ -1,0 +1,142 @@
+body {
+    background: #222 center center/cover no-repeat fixed;
+    color: #39ff14;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
+    margin: 0;
+    min-height: 100vh;
+    height: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#quote-container {
+    background: #111;
+    border: 4px solid #39ff14;
+    box-shadow: 0 0 40px #39ff14, 0 0 10px #222 inset;
+    width: 190vw;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 32px 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#quote {
+    font-size: 1.5rem;
+    text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;
+    letter-spacing: 2px;
+    word-break: break-word;
+    margin-top: 24px;
+}
+
+#disclaimer {
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #aaa;
+    margin-top: 16px;
+    text-align: center;
+}
+
+#quote-img {
+    font-family: 'Courier New', Courier, Menlo, Monaco, monospace;
+    font-size: 0.65em
+}
+
+#generate-btn {
+    background: linear-gradient(180deg, #222 60%, #111 100%);
+    color: #39ff14;
+    border: 2.5px solid #39ff14;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
+    font-size: 1.3rem;
+    padding: 16px 32px;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 4px 0 #39ff14, 0 0 10px #39ff14, 0 0 2px #fff inset;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    outline: none;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s, opacity 0.4s, scale 0.4s;
+    position: relative;
+    overflow: hidden;
+}
+
+#generate-btn:active {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 #39ff14, 0 0 10px #39ff14, 0 0 2px #fff inset;
+}
+
+#generate-btn:hover,
+#generate-btn:focus {
+    background: linear-gradient(180deg, #39ff14 10%, #222 100%);
+    color: #222;
+    box-shadow: 0 6px 16px #39ff14, 0 0 4px #fff inset;
+}
+
+#generate-btn.hide {
+    opacity: 0;
+    transform: scale(0.7);
+    pointer-events: none;
+}
+
+#linkedin-share {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 10px 22px 10px 16px;
+    background: linear-gradient(180deg, #39ff14 60%, #222 100%);
+    color: #222;
+    border: 2px solid #39ff14;
+    border-radius: 8px;
+    font-family: 'VT323', 'Courier New', Courier, Menlo, Monaco, monospace;
+    font-size: 1.1rem;
+    text-decoration: none;
+    box-shadow: 0 2px 8px #39ff14, 0 0 2px #fff inset;
+    letter-spacing: 1px;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.1s;
+    vertical-align: middle;
+}
+
+#linkedin-share:hover,
+#linkedin-share:focus {
+    background: #222;
+    color: #39ff14;
+    box-shadow: 0 4px 16px #39ff14, 0 0 4px #fff inset;
+}
+
+#linkedin-share svg {
+    vertical-align: middle;
+    margin-right: 6px;
+    margin-bottom: 2px;
+}
+
+@media (max-width: 600px) {
+    #quote-container {
+        padding: 18px 4vw;
+        max-width: 98vw;
+    }
+
+    #quote-img {
+        font-size: 1vw;
+        /*Font size is 1% of the viewport width */
+    }
+
+    #quote {
+        font-size: 1.1rem;
+    }
+
+    #generate-btn {
+        font-size: 1rem;
+        padding: 12px 10vw;
+    }
+}
+
+@media (max-width: 950px) {
+    #quote-img {
+        font-size: 1vw;
+    }
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');

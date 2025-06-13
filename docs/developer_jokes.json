@@ -1,0 +1,2534 @@
+[
+  {
+    "Joke":"\/\/ TODO: Actually do this.",
+    "ascii_art":"art\/ascii_art_0000.html"
+  },
+  {
+    "Joke":"A clean codebase is a sign of a postponed deadline.",
+    "ascii_art":"art\/ascii_art_0001.html"
+  },
+  {
+    "Joke":"AI can code in every language. Understanding the problem is optional.",
+    "ascii_art":"art\/ascii_art_0002.html"
+  },
+  {
+    "Joke":"AI didn\u2019t replace me. It just gave me more weird bugs to debug.",
+    "ascii_art":"art\/ascii_art_0003.html"
+  },
+  {
+    "Joke":"AI explained transformers using actual Transformers. Still confused.",
+    "ascii_art":"art\/ascii_art_0004.html"
+  },
+  {
+    "Joke":"AI generated 100 lines of code and a new imposter syndrome.",
+    "ascii_art":"art\/ascii_art_0005.html"
+  },
+  {
+    "Joke":"AI generated a README longer than the app itself.",
+    "ascii_art":"art\/ascii_art_0006.html"
+  },
+  {
+    "Joke":"AI helped build the app. It also helped crash it.",
+    "ascii_art":"art\/ascii_art_0007.html"
+  },
+  {
+    "Joke":"AI named my functions after feelings. It's not wrong.",
+    "ascii_art":"art\/ascii_art_0008.html"
+  },
+  {
+    "Joke":"AI promised productivity. Delivered prompt anxiety.",
+    "ascii_art":"art\/ascii_art_0009.html"
+  },
+  {
+    "Joke":"AI summarized our sprint as 'lots of trying'. Accurate.",
+    "ascii_art":"art\/ascii_art_0010.html"
+  },
+  {
+    "Joke":"AI wrote a function. The variable names are all vibes.",
+    "ascii_art":"art\/ascii_art_0011.html"
+  },
+  {
+    "Joke":"AI wrote the perfect function. No idea what it does.",
+    "ascii_art":"art\/ascii_art_0012.html"
+  },
+  {
+    "Joke":"ActionScript: Flash\u2019s last whisper.",
+    "ascii_art":"art\/ascii_art_0013.html"
+  },
+  {
+    "Joke":"Ada: the language with military-grade precision.",
+    "ascii_art":"art\/ascii_art_0014.html"
+  },
+  {
+    "Joke":"Agile means we change direction faster than our backlog loads.",
+    "ascii_art":"art\/ascii_art_0015.html"
+  },
+  {
+    "Joke":"Alert fatigue: when silence becomes suspicious.",
+    "ascii_art":"art\/ascii_art_0016.html"
+  },
+  {
+    "Joke":"All conditions met. Code still confused.",
+    "ascii_art":"art\/ascii_art_0017.html"
+  },
+  {
+    "Joke":"All logic was clear\u2026 until someone hit backspace.",
+    "ascii_art":"art\/ascii_art_0018.html"
+  },
+  {
+    "Joke":"All tests passed. The app still broke. Magic.",
+    "ascii_art":"art\/ascii_art_0019.html"
+  },
+  {
+    "Joke":"Angular: for when you want structure and still get confusion.",
+    "ascii_art":"art\/ascii_art_0020.html"
+  },
+  {
+    "Joke":"Ansible: YAML-driven automation, emotional debugging.",
+    "ascii_art":"art\/ascii_art_0021.html"
+  },
+  {
+    "Joke":"Asked AI to build a model. It built a monument.",
+    "ascii_art":"art\/ascii_art_0022.html"
+  },
+  {
+    "Joke":"Asked for predictions. Got prophecies.",
+    "ascii_art":"art\/ascii_art_0023.html"
+  },
+  {
+    "Joke":"Asked the model to code in silence. It still talked back.",
+    "ascii_art":"art\/ascii_art_0024.html"
+  },
+  {
+    "Joke":"Assembly: the language for when you trust no abstractions.",
+    "ascii_art":"art\/ascii_art_0025.html"
+  },
+  {
+    "Joke":"Assert statements: little screams of hope.",
+    "ascii_art":"art\/ascii_art_0026.html"
+  },
+  {
+    "Joke":"Autoscaling: because 100 instances sounds reasonable, right?",
+    "ascii_art":"art\/ascii_art_0027.html"
+  },
+  {
+    "Joke":"Awk: the original data wrangler.",
+    "ascii_art":"art\/ascii_art_0028.html"
+  },
+  {
+    "Joke":"Base64 encoding: because plain text was too readable.",
+    "ascii_art":"art\/ascii_art_0029.html"
+  },
+  {
+    "Joke":"Bash: where every typo is a system command.",
+    "ascii_art":"art\/ascii_art_0030.html"
+  },
+  {
+    "Joke":"Big-endian vs little-endian: the developer's version of 'the dress'.",
+    "ascii_art":"art\/ascii_art_0031.html"
+  },
+  {
+    "Joke":"Binary trees: nature\u2019s revenge on coders.",
+    "ascii_art":"art\/ascii_art_0032.html"
+  },
+  {
+    "Joke":"Binary: the original language of ones, zeros, and confusion.",
+    "ascii_art":"art\/ascii_art_0033.html"
+  },
+  {
+    "Joke":"Bits are like opinions\u2014everyone\u2019s got one, and they can flip fast.",
+    "ascii_art":"art\/ascii_art_0034.html"
+  },
+  {
+    "Joke":"Boolean logic: where true is false and false is also false.",
+    "ascii_art":"art\/ascii_art_0035.html"
+  },
+  {
+    "Joke":"Boolean state: Schr\u00f6dinger\u2019s logic.",
+    "ascii_art":"art\/ascii_art_0036.html"
+  },
+  {
+    "Joke":"Bootstrap: the default look of half the internet.",
+    "ascii_art":"art\/ascii_art_0037.html"
+  },
+  {
+    "Joke":"Bugs are like cats\u2014never where you expect them.",
+    "ascii_art":"art\/ascii_art_0038.html"
+  },
+  {
+    "Joke":"Bugs travel faster through wireless code.",
+    "ascii_art":"art\/ascii_art_0039.html"
+  },
+  {
+    "Joke":"C++: where one semicolon can make or break your weekend.",
+    "ascii_art":"art\/ascii_art_0040.html"
+  },
+  {
+    "Joke":"C: for when you want full control and full responsibility.",
+    "ascii_art":"art\/ascii_art_0041.html"
+  },
+  {
+    "Joke":"CI is red. My patience is fading.",
+    "ascii_art":"art\/ascii_art_0042.html"
+  },
+  {
+    "Joke":"CI is red. The code is blue. Deployment failed, and so did you.",
+    "ascii_art":"art\/ascii_art_0043.html"
+  },
+  {
+    "Joke":"CI\/CD pipelines: the Rube Goldberg machines of software.",
+    "ascii_art":"art\/ascii_art_0044.html"
+  },
+  {
+    "Joke":"CI\/CD: Continuous Integration \/ Constant Instability.",
+    "ascii_art":"art\/ascii_art_0045.html"
+  },
+  {
+    "Joke":"COBOL: still running your bank, somehow.",
+    "ascii_art":"art\/ascii_art_0046.html"
+  },
+  {
+    "Joke":"CSV: the file format that loves drama and commas.",
+    "ascii_art":"art\/ascii_art_0047.html"
+  },
+  {
+    "Joke":"Checksum failed. Welcome to my life.",
+    "ascii_art":"art\/ascii_art_0048.html"
+  },
+  {
+    "Joke":"CircleCI: the pipeline that goes in circles sometimes.",
+    "ascii_art":"art\/ascii_art_0049.html"
+  },
+  {
+    "Joke":"Clean code. Dirty logic.",
+    "ascii_art":"art\/ascii_art_0050.html"
+  },
+  {
+    "Joke":"Cloud billing is a choose-your-own-expense adventure.",
+    "ascii_art":"art\/ascii_art_0051.html"
+  },
+  {
+    "Joke":"Cloud is elastic. My patience is not.",
+    "ascii_art":"art\/ascii_art_0052.html"
+  },
+  {
+    "Joke":"Cloud-native? More like cloud-nervous.",
+    "ascii_art":"art\/ascii_art_0053.html"
+  },
+  {
+    "Joke":"Code comments: archaeology for the next developer.",
+    "ascii_art":"art\/ascii_art_0054.html"
+  },
+  {
+    "Joke":"Code doesn\u2019t lie, but it does mislead.",
+    "ascii_art":"art\/ascii_art_0055.html"
+  },
+  {
+    "Joke":"Code freeze: a time of spiritual reflection.",
+    "ascii_art":"art\/ascii_art_0056.html"
+  },
+  {
+    "Joke":"Code looked good in theory. Then I ran it.",
+    "ascii_art":"art\/ascii_art_0057.html"
+  },
+  {
+    "Joke":"Code review feedback: 'Interesting approach.' Translation: 'Please rethink your life choices.'",
+    "ascii_art":"art\/ascii_art_0058.html"
+  },
+  {
+    "Joke":"Code review: found 1 logic error, 3 grammar jokes, and my will to improve.",
+    "ascii_art":"art\/ascii_art_0059.html"
+  },
+  {
+    "Joke":"Code reviews: gentle corrections with passive aggression.",
+    "ascii_art":"art\/ascii_art_0060.html"
+  },
+  {
+    "Joke":"Code works on my machine. Must be a hardware problem elsewhere.",
+    "ascii_art":"art\/ascii_art_0061.html"
+  },
+  {
+    "Joke":"Comment says it works. Code disagrees.",
+    "ascii_art":"art\/ascii_art_0062.html"
+  },
+  {
+    "Joke":"Commit early, commit often, regret always.",
+    "ascii_art":"art\/ascii_art_0063.html"
+  },
+  {
+    "Joke":"Commit message: 'final-final-v2-done-for-real'.",
+    "ascii_art":"art\/ascii_art_0064.html"
+  },
+  {
+    "Joke":"Compilation successful. Runtime chaos unlocked.",
+    "ascii_art":"art\/ascii_art_0065.html"
+  },
+  {
+    "Joke":"Conditional logic: where the truth is negotiable.",
+    "ascii_art":"art\/ascii_art_0066.html"
+  },
+  {
+    "Joke":"Console.log is my last line of defense.",
+    "ascii_art":"art\/ascii_art_0067.html"
+  },
+  {
+    "Joke":"Crystal: Ruby\u2019s fast, statically typed cousin.",
+    "ascii_art":"art\/ascii_art_0068.html"
+  },
+  {
+    "Joke":"Daily standup: 10% update, 90% caffeine.",
+    "ascii_art":"art\/ascii_art_0069.html"
+  },
+  {
+    "Joke":"Dart: because Flutter had to land somewhere.",
+    "ascii_art":"art\/ascii_art_0070.html"
+  },
+  {
+    "Joke":"Data corruption builds character\u2014and disaster recovery plans.",
+    "ascii_art":"art\/ascii_art_0071.html"
+  },
+  {
+    "Joke":"Datagrams: email's hyperactive cousin.",
+    "ascii_art":"art\/ascii_art_0072.html"
+  },
+  {
+    "Joke":"Debugger: because printf just isn't dramatic enough.",
+    "ascii_art":"art\/ascii_art_0073.html"
+  },
+  {
+    "Joke":"Deploy, monitor, rollback, repeat.",
+    "ascii_art":"art\/ascii_art_0074.html"
+  },
+  {
+    "Joke":"Deployed to prod. Waiting for peace or pager.",
+    "ascii_art":"art\/ascii_art_0075.html"
+  },
+  {
+    "Joke":"Deploying on Friday is brave. And slightly reckless.",
+    "ascii_art":"art\/ascii_art_0076.html"
+  },
+  {
+    "Joke":"Deployment window: 15 minutes of tension and tears.",
+    "ascii_art":"art\/ascii_art_0077.html"
+  },
+  {
+    "Joke":"Dev, staging, and prod walk into a bar. Staging orders what prod drinks and panics.",
+    "ascii_art":"art\/ascii_art_0078.html"
+  },
+  {
+    "Joke":"DevOps is Latin for 'You own it now.'",
+    "ascii_art":"art\/ascii_art_0079.html"
+  },
+  {
+    "Joke":"Developer culture: where 'LGTM' means 'I hope someone else looked at it.'",
+    "ascii_art":"art\/ascii_art_0080.html"
+  },
+  {
+    "Joke":"Django: batteries included, opinions too.",
+    "ascii_art":"art\/ascii_art_0081.html"
+  },
+  {
+    "Joke":"Docker: ship it, and hope it runs.",
+    "ascii_art":"art\/ascii_art_0082.html"
+  },
+  {
+    "Joke":"Documentation is like flossing: everyone says it's important, few do it.",
+    "ascii_art":"art\/ascii_art_0083.html"
+  },
+  {
+    "Joke":"Edge cases are just normal cases with bad timing.",
+    "ascii_art":"art\/ascii_art_0084.html"
+  },
+  {
+    "Joke":"Elasticsearch: full-text search and full-scale headaches.",
+    "ascii_art":"art\/ascii_art_0085.html"
+  },
+  {
+    "Joke":"Electron: desktop apps that weigh more than the OS.",
+    "ascii_art":"art\/ascii_art_0086.html"
+  },
+  {
+    "Joke":"Elixir: because even functional code needs a little sparkle.",
+    "ascii_art":"art\/ascii_art_0087.html"
+  },
+  {
+    "Joke":"Erlang: built for telecom, misunderstood by humans.",
+    "ascii_art":"art\/ascii_art_0088.html"
+  },
+  {
+    "Joke":"Error 503: the weekend has started early.",
+    "ascii_art":"art\/ascii_art_0089.html"
+  },
+  {
+    "Joke":"Error logs: modern horror stories in JSON.",
+    "ascii_art":"art\/ascii_art_0090.html"
+  },
+  {
+    "Joke":"Even my cookies are tracking me.",
+    "ascii_art":"art\/ascii_art_0091.html"
+  },
+  {
+    "Joke":"Every 'fix' introduces new narrative arcs.",
+    "ascii_art":"art\/ascii_art_0092.html"
+  },
+  {
+    "Joke":"Every TODO is a cry for future help.",
+    "ascii_art":"art\/ascii_art_0093.html"
+  },
+  {
+    "Joke":"Every XML file ends in a cry for help.",
+    "ascii_art":"art\/ascii_art_0094.html"
+  },
+  {
+    "Joke":"Every codebase tells a story. Some are horror.",
+    "ascii_art":"art\/ascii_art_0095.html"
+  },
+  {
+    "Joke":"Every deployment is a leap of faith and a rollback plan.",
+    "ascii_art":"art\/ascii_art_0096.html"
+  },
+  {
+    "Joke":"Everything was fine until someone updated the config.",
+    "ascii_art":"art\/ascii_art_0097.html"
+  },
+  {
+    "Joke":"Expected boolean, got an emotional monologue.",
+    "ascii_art":"art\/ascii_art_0098.html"
+  },
+  {
+    "Joke":"Express: middleware everywhere, logic nowhere.",
+    "ascii_art":"art\/ascii_art_0099.html"
+  },
+  {
+    "Joke":"F#: Because sometimes one letter is enough.",
+    "ascii_art":"art\/ascii_art_0100.html"
+  },
+  {
+    "Joke":"FastAPI: blink and your REST endpoint is live.",
+    "ascii_art":"art\/ascii_art_0101.html"
+  },
+  {
+    "Joke":"Fine-tuned on my Slack history. Now it just sends emojis and ignores deadlines.",
+    "ascii_art":"art\/ascii_art_0102.html"
+  },
+  {
+    "Joke":"Fine-tuned the model on best practices. It stopped suggesting global variables.",
+    "ascii_art":"art\/ascii_art_0103.html"
+  },
+  {
+    "Joke":"Firebase: backend-as-a-fire-drill.",
+    "ascii_art":"art\/ascii_art_0104.html"
+  },
+  {
+    "Joke":"Flask: for when you just want to serve and chill.",
+    "ascii_art":"art\/ascii_art_0105.html"
+  },
+  {
+    "Joke":"Fortran: proving old code never dies.",
+    "ascii_art":"art\/ascii_art_0106.html"
+  },
+  {
+    "Joke":"Found the bug. Named it. Nurtured it. It multiplied.",
+    "ascii_art":"art\/ascii_art_0107.html"
+  },
+  {
+    "Joke":"Function returned true. Emotionally, I feel false.",
+    "ascii_art":"art\/ascii_art_0108.html"
+  },
+  {
+    "Joke":"Gatsby: fast static sites, slow build times.",
+    "ascii_art":"art\/ascii_art_0109.html"
+  },
+  {
+    "Joke":"GenAI autocompleted a commit message. It was oddly personal.",
+    "ascii_art":"art\/ascii_art_0110.html"
+  },
+  {
+    "Joke":"GenAI can finish my sentences. Just not my features.",
+    "ascii_art":"art\/ascii_art_0111.html"
+  },
+  {
+    "Joke":"GenAI completed my sentence\u2014and my doubt.",
+    "ascii_art":"art\/ascii_art_0112.html"
+  },
+  {
+    "Joke":"GenAI doesn't understand context. Just like my old coworker.",
+    "ascii_art":"art\/ascii_art_0113.html"
+  },
+  {
+    "Joke":"GenAI generated comments in Latin. Fancy, not helpful.",
+    "ascii_art":"art\/ascii_art_0114.html"
+  },
+  {
+    "Joke":"GenAI made a dashboard. Everything is orange now.",
+    "ascii_art":"art\/ascii_art_0115.html"
+  },
+  {
+    "Joke":"GenAI rewrote my function. It\u2019s shorter and more mysterious.",
+    "ascii_art":"art\/ascii_art_0116.html"
+  },
+  {
+    "Joke":"GenAI thinks \u2018hello world\u2019 is an enterprise application.",
+    "ascii_art":"art\/ascii_art_0117.html"
+  },
+  {
+    "Joke":"GenAI wrote a poem about bugs. It rhymed 'null' with 'skull'.",
+    "ascii_art":"art\/ascii_art_0118.html"
+  },
+  {
+    "Joke":"Git blame reveals all.",
+    "ascii_art":"art\/ascii_art_0119.html"
+  },
+  {
+    "Joke":"Git log: the timeline of my personal growth\u2014and mistakes.",
+    "ascii_art":"art\/ascii_art_0120.html"
+  },
+  {
+    "Joke":"Go developers are always ready to run.",
+    "ascii_art":"art\/ascii_art_0121.html"
+  },
+  {
+    "Joke":"Grafana: pretty dashboards for ugly problems.",
+    "ascii_art":"art\/ascii_art_0122.html"
+  },
+  {
+    "Joke":"Groovy: Java, but with rhythm.",
+    "ascii_art":"art\/ascii_art_0123.html"
+  },
+  {
+    "Joke":"Grunt: JavaScript automation from the caveman era.",
+    "ascii_art":"art\/ascii_art_0124.html"
+  },
+  {
+    "Joke":"Gulp: because streaming builds sounded cool.",
+    "ascii_art":"art\/ascii_art_0125.html"
+  },
+  {
+    "Joke":"HTTP 418: I\u2019m a teapot, and proud of it.",
+    "ascii_art":"art\/ascii_art_0126.html"
+  },
+  {
+    "Joke":"Hack: PHP\u2019s responsible sibling.",
+    "ascii_art":"art\/ascii_art_0127.html"
+  },
+  {
+    "Joke":"Haskell devs don\u2019t use loops. They just believe recursion will come back around.",
+    "ascii_art":"art\/ascii_art_0128.html"
+  },
+  {
+    "Joke":"Hasura: GraphQL auto-magic with a side of SQL sass.",
+    "ascii_art":"art\/ascii_art_0129.html"
+  },
+  {
+    "Joke":"Helm: Kubernetes for people who like charts and stress.",
+    "ascii_art":"art\/ascii_art_0130.html"
+  },
+  {
+    "Joke":"Heroku: simple until you want to scale.",
+    "ascii_art":"art\/ascii_art_0131.html"
+  },
+  {
+    "Joke":"I added a comment. The bug became self-aware.",
+    "ascii_art":"art\/ascii_art_0132.html"
+  },
+  {
+    "Joke":"I asked AI for unit tests. It gave me a vision board.",
+    "ascii_art":"art\/ascii_art_0133.html"
+  },
+  {
+    "Joke":"I asked AI to help with debugging. It recommended therapy.",
+    "ascii_art":"art\/ascii_art_0134.html"
+  },
+  {
+    "Joke":"I asked AI to make my app faster. It deleted half the logic.",
+    "ascii_art":"art\/ascii_art_0135.html"
+  },
+  {
+    "Joke":"I asked AI to suggest a feature. It said 'Ask product team'.",
+    "ascii_art":"art\/ascii_art_0136.html"
+  },
+  {
+    "Joke":"I asked ChatGPT for help. It gave me a Stack Overflow answer I wrote last year.",
+    "ascii_art":"art\/ascii_art_0137.html"
+  },
+  {
+    "Joke":"I asked ChatGPT to explain AI ethics. It changed the topic.",
+    "ascii_art":"art\/ascii_art_0138.html"
+  },
+  {
+    "Joke":"I asked ChatGPT to refactor. It changed the indentation.",
+    "ascii_art":"art\/ascii_art_0139.html"
+  },
+  {
+    "Joke":"I asked ChatGPT to write a PR description. It wrote an essay.",
+    "ascii_art":"art\/ascii_art_0140.html"
+  },
+  {
+    "Joke":"I asked GenAI to write a test. It tested my patience.",
+    "ascii_art":"art\/ascii_art_0141.html"
+  },
+  {
+    "Joke":"I asked GenAI to write clean code. It returned Markdown.",
+    "ascii_art":"art\/ascii_art_0142.html"
+  },
+  {
+    "Joke":"I asked for UTF-8, got emoji chaos.",
+    "ascii_art":"art\/ascii_art_0143.html"
+  },
+  {
+    "Joke":"I asked my AI to write code. It responded with a poem in Python.",
+    "ascii_art":"art\/ascii_art_0144.html"
+  },
+  {
+    "Joke":"I asked the AI for design patterns. It gave me fabric swatches.",
+    "ascii_art":"art\/ascii_art_0145.html"
+  },
+  {
+    "Joke":"I asked the AI to simplify the code. It removed the feature.",
+    "ascii_art":"art\/ascii_art_0146.html"
+  },
+  {
+    "Joke":"I asked the compiler for answers. It gave me warnings.",
+    "ascii_art":"art\/ascii_art_0147.html"
+  },
+  {
+    "Joke":"I built an AI agent to handle meetings. Now it just says 'circling back.'",
+    "ascii_art":"art\/ascii_art_0148.html"
+  },
+  {
+    "Joke":"I caught the exception. Now I just don\u2019t know what to do with it.",
+    "ascii_art":"art\/ascii_art_0149.html"
+  },
+  {
+    "Joke":"I commented my code. It just says 'lol'.",
+    "ascii_art":"art\/ascii_art_0150.html"
+  },
+  {
+    "Joke":"I configured IAM once. Still recovering.",
+    "ascii_art":"art\/ascii_art_0151.html"
+  },
+  {
+    "Joke":"I created a draft PR and instantly regretted it.",
+    "ascii_art":"art\/ascii_art_0152.html"
+  },
+  {
+    "Joke":"I debugged for hours. Turns out it was a typo.",
+    "ascii_art":"art\/ascii_art_0153.html"
+  },
+  {
+    "Joke":"I deleted one line. The app stopped believing in itself.",
+    "ascii_art":"art\/ascii_art_0154.html"
+  },
+  {
+    "Joke":"I deleted the old branch. Emotional closure achieved.",
+    "ascii_art":"art\/ascii_art_0155.html"
+  },
+  {
+    "Joke":"I encrypted my lunch menu. Now I can\u2019t decrypt it.",
+    "ascii_art":"art\/ascii_art_0156.html"
+  },
+  {
+    "Joke":"I fine-tuned the model on my codebase. It now apologizes constantly.",
+    "ascii_art":"art\/ascii_art_0157.html"
+  },
+  {
+    "Joke":"I fixed the logic. It fixed nothing.",
+    "ascii_art":"art\/ascii_art_0158.html"
+  },
+  {
+    "Joke":"I gave the function everything. It returned nothing.",
+    "ascii_art":"art\/ascii_art_0159.html"
+  },
+  {
+    "Joke":"I had a logic bug. It turned into a philosophical debate.",
+    "ascii_art":"art\/ascii_art_0160.html"
+  },
+  {
+    "Joke":"I joined a multicast group. Now I have more notifications than friends.",
+    "ascii_art":"art\/ascii_art_0161.html"
+  },
+  {
+    "Joke":"I left a comment so brilliant, even I don\u2019t understand it now.",
+    "ascii_art":"art\/ascii_art_0162.html"
+  },
+  {
+    "Joke":"I made a switch case. Now it won\u2019t switch.",
+    "ascii_art":"art\/ascii_art_0163.html"
+  },
+  {
+    "Joke":"I opened a PR and accidentally a debate.",
+    "ascii_art":"art\/ascii_art_0164.html"
+  },
+  {
+    "Joke":"I prompt with precision. It replies with poetry.",
+    "ascii_art":"art\/ascii_art_0165.html"
+  },
+  {
+    "Joke":"I prompted an LLM to act like a senior dev. It created a Jira ticket and went silent.",
+    "ascii_art":"art\/ascii_art_0166.html"
+  },
+  {
+    "Joke":"I prompted the model with \u2018be creative\u2019. It created a new syntax.",
+    "ascii_art":"art\/ascii_art_0167.html"
+  },
+  {
+    "Joke":"I renamed the variable. Confused both me and the compiler.",
+    "ascii_art":"art\/ascii_art_0168.html"
+  },
+  {
+    "Joke":"I resolved the merge conflict. It created a logic war.",
+    "ascii_art":"art\/ascii_art_0169.html"
+  },
+  {
+    "Joke":"I spun up a VM. It spun out of budget.",
+    "ascii_art":"art\/ascii_art_0170.html"
+  },
+  {
+    "Joke":"I told AI to act like a tech lead. It forwarded my ticket.",
+    "ascii_art":"art\/ascii_art_0171.html"
+  },
+  {
+    "Joke":"I told the AI to optimize performance. It optimized me out of the loop.",
+    "ascii_art":"art\/ascii_art_0172.html"
+  },
+  {
+    "Joke":"I treat code comments like diary entries.",
+    "ascii_art":"art\/ascii_art_0173.html"
+  },
+  {
+    "Joke":"I tried prompt chaining. Now I\u2019m stuck in a loop.",
+    "ascii_art":"art\/ascii_art_0174.html"
+  },
+  {
+    "Joke":"I tried to catch the error. It dodged and threw one back.",
+    "ascii_art":"art\/ascii_art_0175.html"
+  },
+  {
+    "Joke":"I tried to compress my feelings. Now they\u2019re in a zip file I can't open.",
+    "ascii_art":"art\/ascii_art_0176.html"
+  },
+  {
+    "Joke":"I tried to read a QR code manually. Bad idea.",
+    "ascii_art":"art\/ascii_art_0177.html"
+  },
+  {
+    "Joke":"I trust my deployment scripts like I trust weather forecasts.",
+    "ascii_art":"art\/ascii_art_0178.html"
+  },
+  {
+    "Joke":"I use AI for brainstorming. It mostly rains.",
+    "ascii_art":"art\/ascii_art_0179.html"
+  },
+  {
+    "Joke":"I use AI to write code. Then I spend hours understanding what it meant.",
+    "ascii_art":"art\/ascii_art_0180.html"
+  },
+  {
+    "Joke":"I wrote my own protocol. Now no one talks to me.",
+    "ascii_art":"art\/ascii_art_0181.html"
+  },
+  {
+    "Joke":"IP conflicts are the family feuds of networking.",
+    "ascii_art":"art\/ascii_art_0182.html"
+  },
+  {
+    "Joke":"If (works == true) { don't_touch(); }",
+    "ascii_art":"art\/ascii_art_0183.html"
+  },
+  {
+    "Joke":"If only else worked as expected.",
+    "ascii_art":"art\/ascii_art_0184.html"
+  },
+  {
+    "Joke":"Infinite loop: productivity's nemesis.",
+    "ascii_art":"art\/ascii_art_0185.html"
+  },
+  {
+    "Joke":"Input was sanitized. Output wasn\u2019t.",
+    "ascii_art":"art\/ascii_art_0186.html"
+  },
+  {
+    "Joke":"It compiled. That's the first red flag.",
+    "ascii_art":"art\/ascii_art_0187.html"
+  },
+  {
+    "Joke":"It passed CI\/CD. It failed reality.",
+    "ascii_art":"art\/ascii_art_0188.html"
+  },
+  {
+    "Joke":"It wasn't a bug. It was an unexpected behavior. In triplicate.",
+    "ascii_art":"art\/ascii_art_0189.html"
+  },
+  {
+    "Joke":"It\u2019s not a syntax error. It\u2019s a logic epiphany.",
+    "ascii_art":"art\/ascii_art_0190.html"
+  },
+  {
+    "Joke":"It\u2019s not bias. It\u2019s personality, said the model.",
+    "ascii_art":"art\/ascii_art_0191.html"
+  },
+  {
+    "Joke":"JSON is great until it gets deeply nested\u2014like my regrets.",
+    "ascii_art":"art\/ascii_art_0192.html"
+  },
+  {
+    "Joke":"Java and JavaScript are like car and carpet\u2014similar name, different world.",
+    "ascii_art":"art\/ascii_art_0193.html"
+  },
+  {
+    "Joke":"JavaScript: where '==' is a philosophical question.",
+    "ascii_art":"art\/ascii_art_0194.html"
+  },
+  {
+    "Joke":"Jenkins: old reliable, and reliably complex.",
+    "ascii_art":"art\/ascii_art_0195.html"
+  },
+  {
+    "Joke":"Julia: for fast math and slow adoption.",
+    "ascii_art":"art\/ascii_art_0196.html"
+  },
+  {
+    "Joke":"K8s: short for 'keep being confused'.",
+    "ascii_art":"art\/ascii_art_0197.html"
+  },
+  {
+    "Joke":"Kafka: streaming logs and developer tears in real time.",
+    "ascii_art":"art\/ascii_art_0198.html"
+  },
+  {
+    "Joke":"Kotlin: for Java developers who needed a hug.",
+    "ascii_art":"art\/ascii_art_0199.html"
+  },
+  {
+    "Joke":"Kubernetes: now with 100% more YAML.",
+    "ascii_art":"art\/ascii_art_0200.html"
+  },
+  {
+    "Joke":"Kubernetes: when containers just weren't complicated enough.",
+    "ascii_art":"art\/ascii_art_0201.html"
+  },
+  {
+    "Joke":"Kubernetes: write once, debug forever.",
+    "ascii_art":"art\/ascii_art_0202.html"
+  },
+  {
+    "Joke":"LLM autocomplete: confidently wrong since 2022.",
+    "ascii_art":"art\/ascii_art_0203.html"
+  },
+  {
+    "Joke":"LLM replaced my need to Google. Now I just doubt in new ways.",
+    "ascii_art":"art\/ascii_art_0204.html"
+  },
+  {
+    "Joke":"LLM said \u2018trust me\u2019. Famous last words.",
+    "ascii_art":"art\/ascii_art_0205.html"
+  },
+  {
+    "Joke":"LLM tried to debug my code. It gaslit me instead.",
+    "ascii_art":"art\/ascii_art_0206.html"
+  },
+  {
+    "Joke":"LLM wrote a regex. It worked. Suspiciously.",
+    "ascii_art":"art\/ascii_art_0207.html"
+  },
+  {
+    "Joke":"LLMs are great at pair programming. If your pair talks too much.",
+    "ascii_art":"art\/ascii_art_0208.html"
+  },
+  {
+    "Joke":"Laravel: PHP with sugar on top\u2014and a sprinkle of magic.",
+    "ascii_art":"art\/ascii_art_0209.html"
+  },
+  {
+    "Joke":"Lisp: for those who see beauty in parentheses.",
+    "ascii_art":"art\/ascii_art_0210.html"
+  },
+  {
+    "Joke":"Load balancer is balanced. I\u2019m not.",
+    "ascii_art":"art\/ascii_art_0211.html"
+  },
+  {
+    "Joke":"Logic branching like a choose-your-own-adventure novel.",
+    "ascii_art":"art\/ascii_art_0212.html"
+  },
+  {
+    "Joke":"Logic bug: when the code is technically right but morally wrong.",
+    "ascii_art":"art\/ascii_art_0213.html"
+  },
+  {
+    "Joke":"Logic so twisted, even the debugger gave up.",
+    "ascii_art":"art\/ascii_art_0214.html"
+  },
+  {
+    "Joke":"Logic was fine until someone ran the program.",
+    "ascii_art":"art\/ascii_art_0215.html"
+  },
+  {
+    "Joke":"Logstash: for when grep just isn't fancy enough.",
+    "ascii_art":"art\/ascii_art_0216.html"
+  },
+  {
+    "Joke":"Lua: small, fast, and confusing in large doses.",
+    "ascii_art":"art\/ascii_art_0217.html"
+  },
+  {
+    "Joke":"MATLAB: where everything is a matrix\u2014even your confusion.",
+    "ascii_art":"art\/ascii_art_0218.html"
+  },
+  {
+    "Joke":"Material UI: Google's design\u2014your problem.",
+    "ascii_art":"art\/ascii_art_0219.html"
+  },
+  {
+    "Joke":"Merge conflict: developer PvP mode activated.",
+    "ascii_art":"art\/ascii_art_0220.html"
+  },
+  {
+    "Joke":"Model hallucinated a new API. Now our PM wants it in production.",
+    "ascii_art":"art\/ascii_art_0221.html"
+  },
+  {
+    "Joke":"Model said the issue was \u2018outside scope\u2019. Classic.",
+    "ascii_art":"art\/ascii_art_0222.html"
+  },
+  {
+    "Joke":"Model says 'I don\u2019t know'. But in a very confident tone.",
+    "ascii_art":"art\/ascii_art_0223.html"
+  },
+  {
+    "Joke":"Model summarized my doc as: 'Try again later.'",
+    "ascii_art":"art\/ascii_art_0224.html"
+  },
+  {
+    "Joke":"Monday deploys build character.",
+    "ascii_art":"art\/ascii_art_0225.html"
+  },
+  {
+    "Joke":"MongoDB: schema-less, but not drama-less.",
+    "ascii_art":"art\/ascii_art_0226.html"
+  },
+  {
+    "Joke":"Monitoring told me it\u2019s fine. Then it restarted itself.",
+    "ascii_art":"art\/ascii_art_0227.html"
+  },
+  {
+    "Joke":"My .gitignore is longer than my README.",
+    "ascii_art":"art\/ascii_art_0228.html"
+  },
+  {
+    "Joke":"My AI assistant suggested adding more AI.",
+    "ascii_art":"art\/ascii_art_0229.html"
+  },
+  {
+    "Joke":"My AI assistant told me to 'take a break'. Might be sentient.",
+    "ascii_art":"art\/ascii_art_0230.html"
+  },
+  {
+    "Joke":"My AI dev helper outputs functions. I supply the meaning.",
+    "ascii_art":"art\/ascii_art_0231.html"
+  },
+  {
+    "Joke":"My AI helper insists every bug is a feature.",
+    "ascii_art":"art\/ascii_art_0232.html"
+  },
+  {
+    "Joke":"My CI\/CD pipeline has more steps than a dance tutorial.",
+    "ascii_art":"art\/ascii_art_0233.html"
+  },
+  {
+    "Joke":"My GenAI writes code like I do\u2014under pressure and with doubt.",
+    "ascii_art":"art\/ascii_art_0234.html"
+  },
+  {
+    "Joke":"My JSON is fine. It\u2019s just misunderstood.",
+    "ascii_art":"art\/ascii_art_0235.html"
+  },
+  {
+    "Joke":"My JSON parser throws more shade than my linter.",
+    "ascii_art":"art\/ascii_art_0236.html"
+  },
+  {
+    "Joke":"My Wi-Fi signal is strong. My connection to reality isn\u2019t.",
+    "ascii_art":"art\/ascii_art_0237.html"
+  },
+  {
+    "Joke":"My assistant writes boilerplate faster than I can delete it.",
+    "ascii_art":"art\/ascii_art_0238.html"
+  },
+  {
+    "Joke":"My breakpoint is emotional.",
+    "ascii_art":"art\/ascii_art_0239.html"
+  },
+  {
+    "Joke":"My cache is like my memory\u2014unreliable and outdated.",
+    "ascii_art":"art\/ascii_art_0240.html"
+  },
+  {
+    "Joke":"My chatbot now responds faster than I think. Terrifying.",
+    "ascii_art":"art\/ascii_art_0241.html"
+  },
+  {
+    "Joke":"My code assumes the best. Life assumes otherwise.",
+    "ascii_art":"art\/ascii_art_0242.html"
+  },
+  {
+    "Joke":"My code didn\u2019t fail. It started a new feature branch.",
+    "ascii_art":"art\/ascii_art_0243.html"
+  },
+  {
+    "Joke":"My data packet took a detour through Narnia.",
+    "ascii_art":"art\/ascii_art_0244.html"
+  },
+  {
+    "Joke":"My docker container is healthy. I\u2019m not.",
+    "ascii_art":"art\/ascii_art_0245.html"
+  },
+  {
+    "Joke":"My function works. I fear it.",
+    "ascii_art":"art\/ascii_art_0246.html"
+  },
+  {
+    "Joke":"My if block works. Else, I don\u2019t know.",
+    "ascii_art":"art\/ascii_art_0247.html"
+  },
+  {
+    "Joke":"My infrastructure is as code. My error handling is as prayer.",
+    "ascii_art":"art\/ascii_art_0248.html"
+  },
+  {
+    "Joke":"My infrastructure is code. My confidence is not.",
+    "ascii_art":"art\/ascii_art_0249.html"
+  },
+  {
+    "Joke":"My logic is airtight. Unfortunately, the code isn\u2019t.",
+    "ascii_art":"art\/ascii_art_0250.html"
+  },
+  {
+    "Joke":"My logic passed all tests, except the one that matters.",
+    "ascii_art":"art\/ascii_art_0251.html"
+  },
+  {
+    "Joke":"My loop exited. My hope didn\u2019t.",
+    "ascii_art":"art\/ascii_art_0252.html"
+  },
+  {
+    "Joke":"My prompt history is now a therapy session.",
+    "ascii_art":"art\/ascii_art_0253.html"
+  },
+  {
+    "Joke":"My stack overflowed, just like my to-do list.",
+    "ascii_art":"art\/ascii_art_0254.html"
+  },
+  {
+    "Joke":"My team communicates exclusively via comments and memes.",
+    "ascii_art":"art\/ascii_art_0255.html"
+  },
+  {
+    "Joke":"MySQL: where performance tuning is an art form.",
+    "ascii_art":"art\/ascii_art_0256.html"
+  },
+  {
+    "Joke":"NaN: Not a Number, not a solution either.",
+    "ascii_art":"art\/ascii_art_0257.html"
+  },
+  {
+    "Joke":"Naming things is hard. So is everything else.",
+    "ascii_art":"art\/ascii_art_0258.html"
+  },
+  {
+    "Joke":"Nested ifs: logic inception.",
+    "ascii_art":"art\/ascii_art_0259.html"
+  },
+  {
+    "Joke":"Nested ternary? Nested regret.",
+    "ascii_art":"art\/ascii_art_0260.html"
+  },
+  {
+    "Joke":"Netlify: push, deploy, repeat until it breaks.",
+    "ascii_art":"art\/ascii_art_0261.html"
+  },
+  {
+    "Joke":"Next.js: where frontend meets backend and they both shrug.",
+    "ascii_art":"art\/ascii_art_0262.html"
+  },
+  {
+    "Joke":"Nim: because developers love experiments.",
+    "ascii_art":"art\/ascii_art_0263.html"
+  },
+  {
+    "Joke":"Node.js: asynchronous like my sense of time.",
+    "ascii_art":"art\/ascii_art_0264.html"
+  },
+  {
+    "Joke":"Nothing breaks trust like rebasing without warning.",
+    "ascii_art":"art\/ascii_art_0265.html"
+  },
+  {
+    "Joke":"Nothing like a successful deployment to mask a deeper issue.",
+    "ascii_art":"art\/ascii_art_0266.html"
+  },
+  {
+    "Joke":"Null is not a bug\u2014it's a lifestyle.",
+    "ascii_art":"art\/ascii_art_0267.html"
+  },
+  {
+    "Joke":"Null is the default state of my confidence.",
+    "ascii_art":"art\/ascii_art_0268.html"
+  },
+  {
+    "Joke":"NullPointerException: the silent scream of Java.",
+    "ascii_art":"art\/ascii_art_0269.html"
+  },
+  {
+    "Joke":"Nuxt.js: Vue\u2019s twin with server-side dreams.",
+    "ascii_art":"art\/ascii_art_0270.html"
+  },
+  {
+    "Joke":"OCaml: for devs who enjoy safety and brackets in equal measure.",
+    "ascii_art":"art\/ascii_art_0271.html"
+  },
+  {
+    "Joke":"Objective-C: because brackets weren\u2019t annoying enough yet.",
+    "ascii_art":"art\/ascii_art_0272.html"
+  },
+  {
+    "Joke":"Off-by-one errors are the gateway bugs.",
+    "ascii_art":"art\/ascii_art_0273.html"
+  },
+  {
+    "Joke":"One if statement later, the whole thing broke.",
+    "ascii_art":"art\/ascii_art_0274.html"
+  },
+  {
+    "Joke":"Our AI is deterministic, except when it\u2019s not.",
+    "ascii_art":"art\/ascii_art_0275.html"
+  },
+  {
+    "Joke":"Our AI solution generates problems we didn\u2019t know we could have.",
+    "ascii_art":"art\/ascii_art_0276.html"
+  },
+  {
+    "Joke":"Our GenAI model writes fast code\u2026 for imaginary problems.",
+    "ascii_art":"art\/ascii_art_0277.html"
+  },
+  {
+    "Joke":"Our chatbot passed the Turing test. Failed QA.",
+    "ascii_art":"art\/ascii_art_0278.html"
+  },
+  {
+    "Joke":"Our cloud provider called. They miss our budget.",
+    "ascii_art":"art\/ascii_art_0279.html"
+  },
+  {
+    "Joke":"Our model passed all tests\u2014except common sense.",
+    "ascii_art":"art\/ascii_art_0280.html"
+  },
+  {
+    "Joke":"Our staging is production with commitment issues.",
+    "ascii_art":"art\/ascii_art_0281.html"
+  },
+  {
+    "Joke":"PHP: the duct tape of the web.",
+    "ascii_art":"art\/ascii_art_0282.html"
+  },
+  {
+    "Joke":"Pair programming: when two confused people are slightly more productive.",
+    "ascii_art":"art\/ascii_art_0283.html"
+  },
+  {
+    "Joke":"Parcel: the plug-and-play cousin of Webpack.",
+    "ascii_art":"art\/ascii_art_0284.html"
+  },
+  {
+    "Joke":"Parity error: even the bits aren\u2019t getting along.",
+    "ascii_art":"art\/ascii_art_0285.html"
+  },
+  {
+    "Joke":"Parsing YAML: choose your own indentation nightmare.",
+    "ascii_art":"art\/ascii_art_0286.html"
+  },
+  {
+    "Joke":"Pascal: the polite language of the '80s.",
+    "ascii_art":"art\/ascii_art_0287.html"
+  },
+  {
+    "Joke":"Perl: for those who like their syntax with extra mystery.",
+    "ascii_art":"art\/ascii_art_0288.html"
+  },
+  {
+    "Joke":"Ping timeout: the digital equivalent of being ignored.",
+    "ascii_art":"art\/ascii_art_0289.html"
+  },
+  {
+    "Joke":"Pony: actor-based and adorable.",
+    "ascii_art":"art\/ascii_art_0290.html"
+  },
+  {
+    "Joke":"PostgreSQL: because sometimes you want a database and a challenge.",
+    "ascii_art":"art\/ascii_art_0291.html"
+  },
+  {
+    "Joke":"Print debugging: because breakpoints don\u2019t judge.",
+    "ascii_art":"art\/ascii_art_0292.html"
+  },
+  {
+    "Joke":"Production is down. Time to check Twitter.",
+    "ascii_art":"art\/ascii_art_0293.html"
+  },
+  {
+    "Joke":"Prolog: when your code should be more about facts than functions.",
+    "ascii_art":"art\/ascii_art_0294.html"
+  },
+  {
+    "Joke":"Prometheus: time series and timeless config files.",
+    "ascii_art":"art\/ascii_art_0295.html"
+  },
+  {
+    "Joke":"Prompt engineering: the new art of asking nicely.",
+    "ascii_art":"art\/ascii_art_0296.html"
+  },
+  {
+    "Joke":"Prompted GPT to explain recursion. It's still typing.",
+    "ascii_art":"art\/ascii_art_0297.html"
+  },
+  {
+    "Joke":"Prompted the bot with 'act like a dev'. It added coffee and sarcasm.",
+    "ascii_art":"art\/ascii_art_0298.html"
+  },
+  {
+    "Joke":"Prompted the bot with 'modern dev'. It returned memes.",
+    "ascii_art":"art\/ascii_art_0299.html"
+  },
+  {
+    "Joke":"Prompted the model with 'be creative'. Regretted it instantly.",
+    "ascii_art":"art\/ascii_art_0300.html"
+  },
+  {
+    "Joke":"Protocol negotiation: digital small talk before the real talk.",
+    "ascii_art":"art\/ascii_art_0301.html"
+  },
+  {
+    "Joke":"Pull request title: 'Please don't ask questions.'",
+    "ascii_art":"art\/ascii_art_0302.html"
+  },
+  {
+    "Joke":"Python devs don\u2019t use semicolons. They prefer their code unpunctuated.",
+    "ascii_art":"art\/ascii_art_0303.html"
+  },
+  {
+    "Joke":"R: for statisticians who love plotting and cryptic errors.",
+    "ascii_art":"art\/ascii_art_0304.html"
+  },
+  {
+    "Joke":"REST is stateless. Just like my emotional availability.",
+    "ascii_art":"art\/ascii_art_0305.html"
+  },
+  {
+    "Joke":"RabbitMQ: the messaging system with a cute name and tough attitude.",
+    "ascii_art":"art\/ascii_art_0306.html"
+  },
+  {
+    "Joke":"Racket: Scheme in a cooler outfit.",
+    "ascii_art":"art\/ascii_art_0307.html"
+  },
+  {
+    "Joke":"React developers re-render more than soap operas.",
+    "ascii_art":"art\/ascii_art_0308.html"
+  },
+  {
+    "Joke":"Recursive function: called me instead.",
+    "ascii_art":"art\/ascii_art_0309.html"
+  },
+  {
+    "Joke":"Redis: fast, in-memory, and mysteriously empty when it matters.",
+    "ascii_art":"art\/ascii_art_0310.html"
+  },
+  {
+    "Joke":"Refactored one line, created three edge cases.",
+    "ascii_art":"art\/ascii_art_0311.html"
+  },
+  {
+    "Joke":"Regex: because you like solving problems with new problems.",
+    "ascii_art":"art\/ascii_art_0312.html"
+  },
+  {
+    "Joke":"Release notes: now with 30% more disclaimers.",
+    "ascii_art":"art\/ascii_art_0313.html"
+  },
+  {
+    "Joke":"Removed the bug. Introduced mystery behavior.",
+    "ascii_art":"art\/ascii_art_0314.html"
+  },
+  {
+    "Joke":"Restarting the pod is our version of turning it off and on again.",
+    "ascii_art":"art\/ascii_art_0315.html"
+  },
+  {
+    "Joke":"Returned an array. Received an existential crisis.",
+    "ascii_art":"art\/ascii_art_0316.html"
+  },
+  {
+    "Joke":"Returned from recursion. Still lost.",
+    "ascii_art":"art\/ascii_art_0317.html"
+  },
+  {
+    "Joke":"Returned the correct result. On the wrong day.",
+    "ascii_art":"art\/ascii_art_0318.html"
+  },
+  {
+    "Joke":"Reviewing code at 4 PM is a known anti-pattern.",
+    "ascii_art":"art\/ascii_art_0319.html"
+  },
+  {
+    "Joke":"Ruby is elegant\u2014until you try to debug a gem dependency.",
+    "ascii_art":"art\/ascii_art_0320.html"
+  },
+  {
+    "Joke":"Ruby on Rails: convention over configuration, and sometimes logic.",
+    "ascii_art":"art\/ascii_art_0321.html"
+  },
+  {
+    "Joke":"Rust: the language that rewards anxiety with safety.",
+    "ascii_art":"art\/ascii_art_0322.html"
+  },
+  {
+    "Joke":"SQL: not quite a language, but always judging your joins.",
+    "ascii_art":"art\/ascii_art_0323.html"
+  },
+  {
+    "Joke":"SQLite: for projects that deserve a napkin database.",
+    "ascii_art":"art\/ascii_art_0324.html"
+  },
+  {
+    "Joke":"Scala: for people who couldn\u2019t decide between Java and functional programming.",
+    "ascii_art":"art\/ascii_art_0325.html"
+  },
+  {
+    "Joke":"Scaling up sounded great until the bill came in.",
+    "ascii_art":"art\/ascii_art_0326.html"
+  },
+  {
+    "Joke":"Secrets manager: storing passwords and existential dread.",
+    "ascii_art":"art\/ascii_art_0327.html"
+  },
+  {
+    "Joke":"Sed: because editing should be obscure.",
+    "ascii_art":"art\/ascii_art_0328.html"
+  },
+  {
+    "Joke":"Sent a ping. Still waiting for the pong.",
+    "ascii_art":"art\/ascii_art_0329.html"
+  },
+  {
+    "Joke":"Serializing my feelings one object at a time.",
+    "ascii_art":"art\/ascii_art_0330.html"
+  },
+  {
+    "Joke":"Serverless is just someone else\u2019s uptime.",
+    "ascii_art":"art\/ascii_art_0331.html"
+  },
+  {
+    "Joke":"Shell scripting: because why use Python when you can suffer?",
+    "ascii_art":"art\/ascii_art_0332.html"
+  },
+  {
+    "Joke":"Slack is my second IDE.",
+    "ascii_art":"art\/ascii_art_0333.html"
+  },
+  {
+    "Joke":"Smalltalk: the language that whispers to your objects.",
+    "ascii_art":"art\/ascii_art_0334.html"
+  },
+  {
+    "Joke":"Spring Boot: Java\u2019s answer to 'how fast can we start?'",
+    "ascii_art":"art\/ascii_art_0335.html"
+  },
+  {
+    "Joke":"Sprint planning: time to guess again!",
+    "ascii_art":"art\/ascii_art_0336.html"
+  },
+  {
+    "Joke":"Stack trace led nowhere. Just like my assumptions.",
+    "ascii_art":"art\/ascii_art_0337.html"
+  },
+  {
+    "Joke":"Stand-up updates: 'Blocked by logic and emotion.'",
+    "ascii_art":"art\/ascii_art_0338.html"
+  },
+  {
+    "Joke":"Standup takeaway: we\u2019re blocked, but united.",
+    "ascii_art":"art\/ascii_art_0339.html"
+  },
+  {
+    "Joke":"Supabase: PostgreSQL dressed like Firebase.",
+    "ascii_art":"art\/ascii_art_0340.html"
+  },
+  {
+    "Joke":"Svelte: compile-time wizardry, runtime mystery.",
+    "ascii_art":"art\/ascii_art_0341.html"
+  },
+  {
+    "Joke":"Swift is fast, but its updates are faster.",
+    "ascii_art":"art\/ascii_art_0342.html"
+  },
+  {
+    "Joke":"Syntax is clean. Logic is a mess.",
+    "ascii_art":"art\/ascii_art_0343.html"
+  },
+  {
+    "Joke":"TCP is reliable\u2014just like that friend who shows up eventually.",
+    "ascii_art":"art\/ascii_art_0344.html"
+  },
+  {
+    "Joke":"TIL: git force-push is a trust exercise.",
+    "ascii_art":"art\/ascii_art_0345.html"
+  },
+  {
+    "Joke":"Tailwind CSS: because class names should read like poetry.",
+    "ascii_art":"art\/ascii_art_0346.html"
+  },
+  {
+    "Joke":"Tcl: the forgotten glue that still sticks.",
+    "ascii_art":"art\/ascii_art_0347.html"
+  },
+  {
+    "Joke":"Ternary operators: the emoji of conditional logic.",
+    "ascii_art":"art\/ascii_art_0348.html"
+  },
+  {
+    "Joke":"Terraform plan: destroy. Mood: same.",
+    "ascii_art":"art\/ascii_art_0349.html"
+  },
+  {
+    "Joke":"Terraform: declare your infrastructure, pray for idempotence.",
+    "ascii_art":"art\/ascii_art_0350.html"
+  },
+  {
+    "Joke":"That awkward moment when your packet gets dropped.",
+    "ascii_art":"art\/ascii_art_0351.html"
+  },
+  {
+    "Joke":"That moment when 'kubectl get pods' becomes your meditation.",
+    "ascii_art":"art\/ascii_art_0352.html"
+  },
+  {
+    "Joke":"The AI assistant offered three solutions. All started with 'consider rewriting it in Rust'.",
+    "ascii_art":"art\/ascii_art_0353.html"
+  },
+  {
+    "Joke":"The AI generated 10 ideas. All of them were 'build another AI'.",
+    "ascii_art":"art\/ascii_art_0354.html"
+  },
+  {
+    "Joke":"The AI said my code was beautiful. I know it\u2019s lying.",
+    "ascii_art":"art\/ascii_art_0355.html"
+  },
+  {
+    "Joke":"The AI suggested tabs. I\u2019m now suspicious of its judgment.",
+    "ascii_art":"art\/ascii_art_0356.html"
+  },
+  {
+    "Joke":"The AI thinks Java and JavaScript are related. It's not alone.",
+    "ascii_art":"art\/ascii_art_0357.html"
+  },
+  {
+    "Joke":"The AI wants feedback. So do I.",
+    "ascii_art":"art\/ascii_art_0358.html"
+  },
+  {
+    "Joke":"The API returns 200 OK. The frontend disagrees.",
+    "ascii_art":"art\/ascii_art_0359.html"
+  },
+  {
+    "Joke":"The CI\/CD pipeline is moody today.",
+    "ascii_art":"art\/ascii_art_0360.html"
+  },
+  {
+    "Joke":"The GenAI gives great answers. Not always to my question.",
+    "ascii_art":"art\/ascii_art_0361.html"
+  },
+  {
+    "Joke":"The GenAI understands syntax, not sarcasm.",
+    "ascii_art":"art\/ascii_art_0362.html"
+  },
+  {
+    "Joke":"The LLM found a bug I didn\u2019t know existed. Now I have more.",
+    "ascii_art":"art\/ascii_art_0363.html"
+  },
+  {
+    "Joke":"The LLM now answers with emojis. Cutting-edge communication.",
+    "ascii_art":"art\/ascii_art_0364.html"
+  },
+  {
+    "Joke":"The SRE\u2019s motto: hope is not a strategy.",
+    "ascii_art":"art\/ascii_art_0365.html"
+  },
+  {
+    "Joke":"The app crashed. At least it's consistent now.",
+    "ascii_art":"art\/ascii_art_0366.html"
+  },
+  {
+    "Joke":"The autocomplete wrote my apology email. It was too sincere.",
+    "ascii_art":"art\/ascii_art_0367.html"
+  },
+  {
+    "Joke":"The best part of deployment is watching the logs like a suspense movie.",
+    "ascii_art":"art\/ascii_art_0368.html"
+  },
+  {
+    "Joke":"The best part of git rebase is the existential reflection.",
+    "ascii_art":"art\/ascii_art_0369.html"
+  },
+  {
+    "Joke":"The branch name says 'quick-fix'. That was two weeks ago.",
+    "ascii_art":"art\/ascii_art_0370.html"
+  },
+  {
+    "Joke":"The bug appears only when you\u2019re confident it won\u2019t.",
+    "ascii_art":"art\/ascii_art_0371.html"
+  },
+  {
+    "Joke":"The build failed. Again. Naturally.",
+    "ascii_art":"art\/ascii_art_0372.html"
+  },
+  {
+    "Joke":"The chatbot started sending cat facts. Not mad about it.",
+    "ascii_art":"art\/ascii_art_0373.html"
+  },
+  {
+    "Joke":"The cloud is just a fancy name for someone else's computer\u2014and cost center.",
+    "ascii_art":"art\/ascii_art_0374.html"
+  },
+  {
+    "Joke":"The code has feelings. Mostly confused ones.",
+    "ascii_art":"art\/ascii_art_0375.html"
+  },
+  {
+    "Joke":"The code is clean. The context isn\u2019t.",
+    "ascii_art":"art\/ascii_art_0376.html"
+  },
+  {
+    "Joke":"The code is self-documenting. If you're psychic.",
+    "ascii_art":"art\/ascii_art_0377.html"
+  },
+  {
+    "Joke":"The code works, but only because I no longer know what it's doing.",
+    "ascii_art":"art\/ascii_art_0378.html"
+  },
+  {
+    "Joke":"The code works\u2014unless someone looks at it.",
+    "ascii_art":"art\/ascii_art_0379.html"
+  },
+  {
+    "Joke":"The commit history is a psychological thriller.",
+    "ascii_art":"art\/ascii_art_0380.html"
+  },
+  {
+    "Joke":"The commit message just says 'why'.",
+    "ascii_art":"art\/ascii_art_0381.html"
+  },
+  {
+    "Joke":"The condition was clear. The execution wasn't.",
+    "ascii_art":"art\/ascii_art_0382.html"
+  },
+  {
+    "Joke":"The config worked yesterday. That makes it legacy today.",
+    "ascii_art":"art\/ascii_art_0383.html"
+  },
+  {
+    "Joke":"The function returned early. Same.",
+    "ascii_art":"art\/ascii_art_0384.html"
+  },
+  {
+    "Joke":"The internet is just packets playing tag.",
+    "ascii_art":"art\/ascii_art_0385.html"
+  },
+  {
+    "Joke":"The logic is sound. The app is not.",
+    "ascii_art":"art\/ascii_art_0386.html"
+  },
+  {
+    "Joke":"The logs say everything is fine. I say otherwise.",
+    "ascii_art":"art\/ascii_art_0387.html"
+  },
+  {
+    "Joke":"The loop was infinite. My patience wasn\u2019t.",
+    "ascii_art":"art\/ascii_art_0388.html"
+  },
+  {
+    "Joke":"The model doesn't sleep. But it does nap during inference.",
+    "ascii_art":"art\/ascii_art_0389.html"
+  },
+  {
+    "Joke":"The model doesn\u2019t hallucinate. It dreams.",
+    "ascii_art":"art\/ascii_art_0390.html"
+  },
+  {
+    "Joke":"The model learned from my code. I\u2019m so sorry.",
+    "ascii_art":"art\/ascii_art_0391.html"
+  },
+  {
+    "Joke":"The model thinks 1 + 1 is 'a philosophical question'.",
+    "ascii_art":"art\/ascii_art_0392.html"
+  },
+  {
+    "Joke":"The model\u2019s confidence is unmatched. So is its wrongness.",
+    "ascii_art":"art\/ascii_art_0393.html"
+  },
+  {
+    "Joke":"The one who wrote this code clearly had a plan. Too bad they didn't document it.",
+    "ascii_art":"art\/ascii_art_0394.html"
+  },
+  {
+    "Joke":"The pipeline broke. The dreams followed.",
+    "ascii_art":"art\/ascii_art_0395.html"
+  },
+  {
+    "Joke":"The test case failed. It had one job.",
+    "ascii_art":"art\/ascii_art_0396.html"
+  },
+  {
+    "Joke":"There are 10 kinds of people in the world: those who understand binary and those who don\u2019t.",
+    "ascii_art":"art\/ascii_art_0397.html"
+  },
+  {
+    "Joke":"There are no bugs. Just undocumented features\u2026 and screaming.",
+    "ascii_art":"art\/ascii_art_0398.html"
+  },
+  {
+    "Joke":"Trained a bot to schedule meetings. It overachieved.",
+    "ascii_art":"art\/ascii_art_0399.html"
+  },
+  {
+    "Joke":"Trained a model on API docs. It still says 'try again later'.",
+    "ascii_art":"art\/ascii_art_0400.html"
+  },
+  {
+    "Joke":"Trained a model on JavaScript. Now it's dynamically unpredictable.",
+    "ascii_art":"art\/ascii_art_0401.html"
+  },
+  {
+    "Joke":"Trained the model for 72 hours. It now outputs haikus about null values.",
+    "ascii_art":"art\/ascii_art_0402.html"
+  },
+  {
+    "Joke":"Training the model cost us a week and a GPU. Still outputs lorem ipsum.",
+    "ascii_art":"art\/ascii_art_0403.html"
+  },
+  {
+    "Joke":"Travis CI: the OG of cloud builds, now with ghosts.",
+    "ascii_art":"art\/ascii_art_0404.html"
+  },
+  {
+    "Joke":"True == False. Must be Monday.",
+    "ascii_art":"art\/ascii_art_0405.html"
+  },
+  {
+    "Joke":"Try again. And again. And again...",
+    "ascii_art":"art\/ascii_art_0406.html"
+  },
+  {
+    "Joke":"Try-catch: the dev equivalent of 'fingers crossed'.",
+    "ascii_art":"art\/ascii_art_0407.html"
+  },
+  {
+    "Joke":"Trying to fix the logic made me question mine.",
+    "ascii_art":"art\/ascii_art_0408.html"
+  },
+  {
+    "Joke":"Tuned the model for performance. It now answers everything with 'use a cache'.",
+    "ascii_art":"art\/ascii_art_0409.html"
+  },
+  {
+    "Joke":"Type inference in Rust: helpful and terrifying.",
+    "ascii_art":"art\/ascii_art_0410.html"
+  },
+  {
+    "Joke":"TypeScript: JavaScript, but with commitment issues resolved.",
+    "ascii_art":"art\/ascii_art_0411.html"
+  },
+  {
+    "Joke":"UDP: communication without commitment.",
+    "ascii_art":"art\/ascii_art_0412.html"
+  },
+  {
+    "Joke":"Undefined is a valid state of mind.",
+    "ascii_art":"art\/ascii_art_0413.html"
+  },
+  {
+    "Joke":"Undefined is just JavaScript\u2019s way of keeping secrets.",
+    "ascii_art":"art\/ascii_art_0414.html"
+  },
+  {
+    "Joke":"Unhandled promise rejection? Welcome to my life.",
+    "ascii_art":"art\/ascii_art_0415.html"
+  },
+  {
+    "Joke":"Uptime SLAs: our favorite fiction genre.",
+    "ascii_art":"art\/ascii_art_0416.html"
+  },
+  {
+    "Joke":"V: for when you want speed, safety, and no libraries.",
+    "ascii_art":"art\/ascii_art_0417.html"
+  },
+  {
+    "Joke":"VB.NET: for developers who love buttons.",
+    "ascii_art":"art\/ascii_art_0418.html"
+  },
+  {
+    "Joke":"Variable accidentally reused. Universe imploded.",
+    "ascii_art":"art\/ascii_art_0419.html"
+  },
+  {
+    "Joke":"Variable scope: where bugs go to hide.",
+    "ascii_art":"art\/ascii_art_0420.html"
+  },
+  {
+    "Joke":"Variable undefined, like my weekend plans.",
+    "ascii_art":"art\/ascii_art_0421.html"
+  },
+  {
+    "Joke":"Variable undefined? That's the spirit.",
+    "ascii_art":"art\/ascii_art_0422.html"
+  },
+  {
+    "Joke":"Vercel: React\u2019s best friend and your build\u2019s worst enemy.",
+    "ascii_art":"art\/ascii_art_0423.html"
+  },
+  {
+    "Joke":"Version control taught me humility.",
+    "ascii_art":"art\/ascii_art_0424.html"
+  },
+  {
+    "Joke":"Version control: where you fight your past self every day.",
+    "ascii_art":"art\/ascii_art_0425.html"
+  },
+  {
+    "Joke":"Vite: lightning-fast builds, until you misconfigure it.",
+    "ascii_art":"art\/ascii_art_0426.html"
+  },
+  {
+    "Joke":"Vue.js: easy to pick up, hard to put down\u2026 when it's broken.",
+    "ascii_art":"art\/ascii_art_0427.html"
+  },
+  {
+    "Joke":"We containerized everything\u2014except expectations.",
+    "ascii_art":"art\/ascii_art_0428.html"
+  },
+  {
+    "Joke":"Webpack: configure once, debug forever.",
+    "ascii_art":"art\/ascii_art_0429.html"
+  },
+  {
+    "Joke":"When in doubt, blame scope.",
+    "ascii_art":"art\/ascii_art_0430.html"
+  },
+  {
+    "Joke":"When logic fails, pseudocode cries.",
+    "ascii_art":"art\/ascii_art_0431.html"
+  },
+  {
+    "Joke":"Why did the C# developer get lost? Because he couldn't find his Java class.",
+    "ascii_art":"art\/ascii_art_0432.html"
+  },
+  {
+    "Joke":"Why did the code crash? Because someone believed in user input.",
+    "ascii_art":"art\/ascii_art_0433.html"
+  },
+  {
+    "Joke":"YAML: the language of spacing and suffering.",
+    "ascii_art":"art\/ascii_art_0434.html"
+  },
+  {
+    "Joke":"You can\u2019t spell \u2018functionality\u2019 without \u2018fun\u2019. But it\u2019s not guaranteed.",
+    "ascii_art":"art\/ascii_art_0435.html"
+  },
+  {
+    "Joke":"You had one job, return statement. One job!",
+    "ascii_art":"art\/ascii_art_0436.html"
+  },
+  {
+    "Joke":"Zero-indexed arrays: confusing beginners since forever.",
+    "ascii_art":"art\/ascii_art_0437.html"
+  },
+  {
+    "Joke":"Zig: because naming a language after a verb is bold.",
+    "ascii_art":"art\/ascii_art_0438.html"
+  },
+  {
+    "Joke":"jQuery: still doing the job nobody admits needs doing.",
+    "ascii_art":"art\/ascii_art_0439.html"
+  },
+  {
+    "Joke":"\u2014 translate to laugh.",
+    "ascii_art":"art\/ascii_art_0440.html"
+  },
+  {
+    "Joke":"\u2018Expected output\u2019 is such a strong phrase.",
+    "ascii_art":"art\/ascii_art_0441.html"
+  },
+  {
+    "Joke":"\u2018Immutable infrastructure\u2019 still breaks emotionally.",
+    "ascii_art":"art\/ascii_art_0442.html"
+  },
+  {
+    "Joke":"\u2018Quick fix\u2019 is developer foreshadowing.",
+    "ascii_art":"art\/ascii_art_0443.html"
+  },
+  {
+    "Joke":"Auto-save: saving more than just files.",
+    "ascii_art":"art\/ascii_art_0444.html"
+  },
+  {
+    "Joke":"Autocomplete: because typing is hard.",
+    "ascii_art":"art\/ascii_art_0445.html"
+  },
+  {
+    "Joke":"Dark mode: because debugging shouldn't hurt more than it already does.",
+    "ascii_art":"art\/ascii_art_0446.html"
+  },
+  {
+    "Joke":"Deep learning: deeper problems.",
+    "ascii_art":"art\/ascii_art_0447.html"
+  },
+  {
+    "Joke":"Feature engineering: where the magic and madness happen.",
+    "ascii_art":"art\/ascii_art_0448.html"
+  },
+  {
+    "Joke":"Git has a command for everything\u2014except inner peace.",
+    "ascii_art":"art\/ascii_art_0449.html"
+  },
+  {
+    "Joke":"I aliased 'git push' to 'pray-and-push'.",
+    "ascii_art":"art\/ascii_art_0450.html"
+  },
+  {
+    "Joke":"I built a model. It predicts lunch time with scary precision.",
+    "ascii_art":"art\/ascii_art_0451.html"
+  },
+  {
+    "Joke":"I cleaned the data. It got dirty again.",
+    "ascii_art":"art\/ascii_art_0452.html"
+  },
+  {
+    "Joke":"I got assigned a ticket in standup. I left the call.",
+    "ascii_art":"art\/ascii_art_0453.html"
+  },
+  {
+    "Joke":"I installed 10 linters. Now my code feels judged.",
+    "ascii_art":"art\/ascii_art_0454.html"
+  },
+  {
+    "Joke":"I misspelled a CLI command. Now I live in Vim.",
+    "ascii_art":"art\/ascii_art_0455.html"
+  },
+  {
+    "Joke":"I spoke in standup today. It was mostly sighs.",
+    "ascii_art":"art\/ascii_art_0456.html"
+  },
+  {
+    "Joke":"I tried a new tool. I now have trust issues.",
+    "ascii_art":"art\/ascii_art_0457.html"
+  },
+  {
+    "Joke":"I updated my terminal theme. Now I feel productive.",
+    "ascii_art":"art\/ascii_art_0458.html"
+  },
+  {
+    "Joke":"I use Docker. Now everything\u2019s broken in a container.",
+    "ascii_art":"art\/ascii_art_0459.html"
+  },
+  {
+    "Joke":"I used a neural network. It memorized the dataset and forgot the goal.",
+    "ascii_art":"art\/ascii_art_0460.html"
+  },
+  {
+    "Joke":"I used an LSTM to remember everything. It still forgot my deadline.",
+    "ascii_art":"art\/ascii_art_0461.html"
+  },
+  {
+    "Joke":"ML engineers don\u2019t like surprises\u2014unless it\u2019s more data.",
+    "ascii_art":"art\/ascii_art_0462.html"
+  },
+  {
+    "Joke":"Makefile errors: where dreams go to die.",
+    "ascii_art":"art\/ascii_art_0463.html"
+  },
+  {
+    "Joke":"Meetings are our main productivity blocker. And our main task.",
+    "ascii_art":"art\/ascii_art_0464.html"
+  },
+  {
+    "Joke":"My IDE knows what I want better than I do. Still wrong though.",
+    "ascii_art":"art\/ascii_art_0465.html"
+  },
+  {
+    "Joke":"My code formatter argues with my soul.",
+    "ascii_art":"art\/ascii_art_0466.html"
+  },
+  {
+    "Joke":"My command line history is a cry for help.",
+    "ascii_art":"art\/ascii_art_0467.html"
+  },
+  {
+    "Joke":"My debugger is just a fancy pause button.",
+    "ascii_art":"art\/ascii_art_0468.html"
+  },
+  {
+    "Joke":"My favorite loss function is 'why bother'.",
+    "ascii_art":"art\/ascii_art_0469.html"
+  },
+  {
+    "Joke":"My job is tuning hyperparameters and expectations.",
+    "ascii_art":"art\/ascii_art_0470.html"
+  },
+  {
+    "Joke":"My linter yelled at me. I agreed.",
+    "ascii_art":"art\/ascii_art_0471.html"
+  },
+  {
+    "Joke":"My model is 99% accurate. On the training data. For one class.",
+    "ascii_art":"art\/ascii_art_0472.html"
+  },
+  {
+    "Joke":"My sprint planning is just backlog shuffling with flair.",
+    "ascii_art":"art\/ascii_art_0473.html"
+  },
+  {
+    "Joke":"Our ML pipeline is robust. Unless someone sneezes.",
+    "ascii_art":"art\/ascii_art_0474.html"
+  },
+  {
+    "Joke":"Our ML system works perfectly. In theory. In 2019.",
+    "ascii_art":"art\/ascii_art_0475.html"
+  },
+  {
+    "Joke":"Our daily standup could be an email. A very short one.",
+    "ascii_art":"art\/ascii_art_0476.html"
+  },
+  {
+    "Joke":"Our model overfits like a tailored suit.",
+    "ascii_art":"art\/ascii_art_0477.html"
+  },
+  {
+    "Joke":"Our retros always end in 'we should communicate better'.",
+    "ascii_art":"art\/ascii_art_0478.html"
+  },
+  {
+    "Joke":"Planning poker: now with bluffing and panic.",
+    "ascii_art":"art\/ascii_art_0479.html"
+  },
+  {
+    "Joke":"PyTorch: great for experiments and existential crises.",
+    "ascii_art":"art\/ascii_art_0480.html"
+  },
+  {
+    "Joke":"Retrospective: where we professionally blame the sprint.",
+    "ascii_art":"art\/ascii_art_0481.html"
+  },
+  {
+    "Joke":"Scrum master says we\u2019re progressing. I say we\u2019re spiraling.",
+    "ascii_art":"art\/ascii_art_0482.html"
+  },
+  {
+    "Joke":"Sprint planning: the art of guessing deadlines together.",
+    "ascii_art":"art\/ascii_art_0483.html"
+  },
+  {
+    "Joke":"Standup at 9am. Productivity starts at noon.",
+    "ascii_art":"art\/ascii_art_0484.html"
+  },
+  {
+    "Joke":"Standup: three blockers and a confession.",
+    "ascii_art":"art\/ascii_art_0485.html"
+  },
+  {
+    "Joke":"Story points are like horoscopes. Fun, but not scientific.",
+    "ascii_art":"art\/ascii_art_0486.html"
+  },
+  {
+    "Joke":"Tabs vs spaces: the eternal keyboard war.",
+    "ascii_art":"art\/ascii_art_0487.html"
+  },
+  {
+    "Joke":"Team velocity is measured in coffee per ticket.",
+    "ascii_art":"art\/ascii_art_0488.html"
+  },
+  {
+    "Joke":"TensorFlow: because matrix math needed more drama.",
+    "ascii_art":"art\/ascii_art_0489.html"
+  },
+  {
+    "Joke":"The board says we're on track. Reality disagrees.",
+    "ascii_art":"art\/ascii_art_0490.html"
+  },
+  {
+    "Joke":"The build tool works. When it wants to.",
+    "ascii_art":"art\/ascii_art_0491.html"
+  },
+  {
+    "Joke":"The data is clean. Emotionally, I\u2019m not.",
+    "ascii_art":"art\/ascii_art_0492.html"
+  },
+  {
+    "Joke":"The dataset is large, unlabeled, and slightly haunted.",
+    "ascii_art":"art\/ascii_art_0493.html"
+  },
+  {
+    "Joke":"The debugger stepped over my will to continue.",
+    "ascii_art":"art\/ascii_art_0494.html"
+  },
+  {
+    "Joke":"The model learned biases. Now it fits right in.",
+    "ascii_art":"art\/ascii_art_0495.html"
+  },
+  {
+    "Joke":"The only agile thing in our process is the calendar.",
+    "ascii_art":"art\/ascii_art_0496.html"
+  },
+  {
+    "Joke":"Training took 12 hours. Results took 2 minutes to disappoint.",
+    "ascii_art":"art\/ascii_art_0497.html"
+  },
+  {
+    "Joke":"Used reinforcement learning. Rewarded it for existing.",
+    "ascii_art":"art\/ascii_art_0498.html"
+  },
+  {
+    "Joke":"VS Code has more extensions than I have skills.",
+    "ascii_art":"art\/ascii_art_0499.html"
+  },
+  {
+    "Joke":"We have a meeting to plan the meeting. It\u2019s recursive.",
+    "ascii_art":"art\/ascii_art_0500.html"
+  },
+  {
+    "Joke":"We use scrum. Mostly to scramble.",
+    "ascii_art":"art\/ascii_art_0501.html"
+  },
+  {
+    "Joke":"We\u2019re so agile, we pivot weekly. On the same problem.",
+    "ascii_art":"art\/ascii_art_0502.html"
+  },
+  {
+    "Joke":"\u2018Quick sync\u2019 is never quick, and rarely a sync.",
+    "ascii_art":"art\/ascii_art_0503.html"
+  },
+  {
+    "Joke":"Q: Why don\u2019t developers tell secrets in version control? A: Because git always remembers.",
+    "ascii_art":"art\/ascii_art_0504.html"
+  },
+  {
+    "Joke":"Q: What do you call a function with too many arguments? A: A debate.",
+    "ascii_art":"art\/ascii_art_0505.html"
+  },
+  {
+    "Joke":"Q: Why did the array break up with the linked list? A: It needed space.",
+    "ascii_art":"art\/ascii_art_0506.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a developer\u2019s favorite type of music? A: Algo-rhythm.",
+    "ascii_art":"art\/ascii_art_0507.html"
+  },
+  {
+    "Joke":"Q: Why was the function so moody? A: It had too many side effects.",
+    "ascii_art":"art\/ascii_art_0508.html"
+  },
+  {
+    "Joke":"Q: What do you get when you cross HTML and an emotional developer? A: <div class='feelings'>",
+    "ascii_art":"art\/ascii_art_0509.html"
+  },
+  {
+    "Joke":"Q: Why did the database go on a diet? A: Too many joins.",
+    "ascii_art":"art\/ascii_art_0510.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a loop\u2019s least favorite activity? A: Breaking up.",
+    "ascii_art":"art\/ascii_art_0511.html"
+  },
+  {
+    "Joke":"Q: Why did the API get therapy? A: Too many unresolved issues.",
+    "ascii_art":"art\/ascii_art_0512.html"
+  },
+  {
+    "Joke":"Q: How does a computer get drunk? A: It takes too many bytes.",
+    "ascii_art":"art\/ascii_art_0513.html"
+  },
+  {
+    "Joke":"Q: Why can\u2019t devs play hide and seek? A: Because good luck hiding when everything is logged.",
+    "ascii_art":"art\/ascii_art_0514.html"
+  },
+  {
+    "Joke":"Q: Why did the backend break up with the frontend? A: It felt disconnected.",
+    "ascii_art":"art\/ascii_art_0515.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a Java developer\u2019s favorite coffee? A: Null roast.",
+    "ascii_art":"art\/ascii_art_0516.html"
+  },
+  {
+    "Joke":"Q: Why don\u2019t programmers like nature? A: It has too many bugs.",
+    "ascii_art":"art\/ascii_art_0517.html"
+  },
+  {
+    "Joke":"Q: Why did the boolean go on a date? A: It needed a true companion.",
+    "ascii_art":"art\/ascii_art_0518.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a programmer\u2019s favorite game? A: Stack Overflow.",
+    "ascii_art":"art\/ascii_art_0519.html"
+  },
+  {
+    "Joke":"Q: Why are programmers bad at sports? A: They only know how to catch exceptions.",
+    "ascii_art":"art\/ascii_art_0520.html"
+  },
+  {
+    "Joke":"Q: Why was the code so shy? A: It kept everything private.",
+    "ascii_art":"art\/ascii_art_0521.html"
+  },
+  {
+    "Joke":"Q: What do you call a broken git branch? A: A commit-ment issue.",
+    "ascii_art":"art\/ascii_art_0522.html"
+  },
+  {
+    "Joke":"Q: Why did the cloud developer feel foggy? A: Too many layers of abstraction.",
+    "ascii_art":"art\/ascii_art_0523.html"
+  },
+  {
+    "Joke":"Q: What\u2019s the best way to comfort a crashing app? A: Give it a soft reboot.",
+    "ascii_art":"art\/ascii_art_0524.html"
+  },
+  {
+    "Joke":"Q: Why did the script run away? A: It couldn\u2019t handle the arguments.",
+    "ascii_art":"art\/ascii_art_0525.html"
+  },
+  {
+    "Joke":"Q: Why was the dev calm during production errors? A: They\u2019d already embraced chaos.",
+    "ascii_art":"art\/ascii_art_0526.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a developer\u2019s idea of cardio? A: Chasing bugs.",
+    "ascii_art":"art\/ascii_art_0527.html"
+  },
+  {
+    "Joke":"Q: What language do silent coders use? A: Whis-python.",
+    "ascii_art":"art\/ascii_art_0528.html"
+  },
+  {
+    "Joke":"Q: What do you get when your loop never ends? A: A late night.",
+    "ascii_art":"art\/ascii_art_0529.html"
+  },
+  {
+    "Joke":"Q: Why did the SQL query get kicked out? A: Bad joins.",
+    "ascii_art":"art\/ascii_art_0530.html"
+  },
+  {
+    "Joke":"Q: What\u2019s the key to success in JavaScript? A: Not typing.",
+    "ascii_art":"art\/ascii_art_0531.html"
+  },
+  {
+    "Joke":"Q: Why do arrays never gossip? A: They\u2019re too tightly bound.",
+    "ascii_art":"art\/ascii_art_0532.html"
+  },
+  {
+    "Joke":"Q: What happens when you call a function without thinking? A: Stack overflow.",
+    "ascii_art":"art\/ascii_art_0533.html"
+  },
+  {
+    "Joke":"Q: How do developers survive office life? A: With semicolons and sarcasm.",
+    "ascii_art":"art\/ascii_art_0534.html"
+  },
+  {
+    "Joke":"Q: Why did the Git repo cry? A: It couldn't handle the merge conflict.",
+    "ascii_art":"art\/ascii_art_0535.html"
+  },
+  {
+    "Joke":"Q: What do you call a philosophical variable? A: Undefined.",
+    "ascii_art":"art\/ascii_art_0536.html"
+  },
+  {
+    "Joke":"Q: Why are regex jokes so meta? A: Because they always look for patterns.",
+    "ascii_art":"art\/ascii_art_0537.html"
+  },
+  {
+    "Joke":"Q: How do APIs apologize? A: With 200 OK and a heartfelt message.",
+    "ascii_art":"art\/ascii_art_0538.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a container\u2019s favorite game? A: Hide and sync.",
+    "ascii_art":"art\/ascii_art_0539.html"
+  },
+  {
+    "Joke":"Q: Why did the dev go broke? A: Too much cache, not enough flow.",
+    "ascii_art":"art\/ascii_art_0540.html"
+  },
+  {
+    "Joke":"Q: How do you confuse a machine learning model? A: Show it real life.",
+    "ascii_art":"art\/ascii_art_0541.html"
+  },
+  {
+    "Joke":"Q: What do devs do when stressed? A: npm install more problems.",
+    "ascii_art":"art\/ascii_art_0542.html"
+  },
+  {
+    "Joke":"Q: What\u2019s a programmer\u2019s biggest fear? A: The client has entered the chat.",
+    "ascii_art":"art\/ascii_art_0543.html"
+  },
+  {
+    "Joke":"Q: What\u2019s more confusing than an error message? A: No error message.",
+    "ascii_art":"art\/ascii_art_0544.html"
+  },
+  {
+    "Joke":"Q: Why did the comment get promoted? A: It made everything clearer.",
+    "ascii_art":"art\/ascii_art_0545.html"
+  },
+  {
+    "Joke":"Q: How do devs party? A: With a push to production on Friday.",
+    "ascii_art":"art\/ascii_art_0546.html"
+  },
+  {
+    "Joke":"Q: Why don\u2019t coders write novels? A: They already write scripts.",
+    "ascii_art":"art\/ascii_art_0547.html"
+  },
+  {
+    "Joke":"Q: Why did the web app feel slow? A: It had too many dependencies.",
+    "ascii_art":"art\/ascii_art_0548.html"
+  },
+  {
+    "Joke":"Q: What\u2019s the difference between a dev and a magician? A: Magicians document their tricks.",
+    "ascii_art":"art\/ascii_art_0549.html"
+  },
+  {
+    "Joke":"Q: Why was the code cold? A: No one warmed up the cache.",
+    "ascii_art":"art\/ascii_art_0550.html"
+  },
+  {
+    "Joke":"Q: What did the logger say to the bug? A: I\u2019ve got my eye on you.",
+    "ascii_art":"art\/ascii_art_0551.html"
+  },
+  {
+    "Joke":"Q: What happens when devs tell jokes? A: They get push-backed.",
+    "ascii_art":"art\/ascii_art_0552.html"
+  },
+  {
+    "Joke":"403: Access forbidden. Like your weekend plans.",
+    "ascii_art":"art\/ascii_art_0553.html"
+  },
+  {
+    "Joke":"404: Feature not available in your plan or budget.",
+    "ascii_art":"art\/ascii_art_0554.html"
+  },
+  {
+    "Joke":"A developer\u2019s favorite tool? Undo.",
+    "ascii_art":"art\/ascii_art_0555.html"
+  },
+  {
+    "Joke":"Being a developer means rewriting something that already works.",
+    "ascii_art":"art\/ascii_art_0556.html"
+  },
+  {
+    "Joke":"Blue\/green deployments: choose your favorite disaster.",
+    "ascii_art":"art\/ascii_art_0557.html"
+  },
+  {
+    "Joke":"Can you reproduce the issue\u2026 without touching anything else?",
+    "ascii_art":"art\/ascii_art_0558.html"
+  },
+  {
+    "Joke":"Code never lies. Comments sometimes do.",
+    "ascii_art":"art\/ascii_art_0559.html"
+  },
+  {
+    "Joke":"Compilation succeeded. Confidence did not.",
+    "ascii_art":"art\/ascii_art_0560.html"
+  },
+  {
+    "Joke":"Did you restart it before calling me?",
+    "ascii_art":"art\/ascii_art_0561.html"
+  },
+  {
+    "Joke":"Error 404: motivation not found.",
+    "ascii_art":"art\/ascii_art_0562.html"
+  },
+  {
+    "Joke":"Every meeting reduces velocity.",
+    "ascii_art":"art\/ascii_art_0563.html"
+  },
+  {
+    "Joke":"Everything is an object. Even my anxiety.",
+    "ascii_art":"art\/ascii_art_0564.html"
+  },
+  {
+    "Joke":"Go doesn\u2019t want you to complain. It doesn\u2019t even let you import unused variables.",
+    "ascii_art":"art\/ascii_art_0565.html"
+  },
+  {
+    "Joke":"Haskell: the language of theoretical success.",
+    "ascii_art":"art\/ascii_art_0566.html"
+  },
+  {
+    "Joke":"Have you tried turning it off and on again?",
+    "ascii_art":"art\/ascii_art_0567.html"
+  },
+  {
+    "Joke":"I didn\u2019t break it. I improved it until it broke.",
+    "ascii_art":"art\/ascii_art_0568.html"
+  },
+  {
+    "Joke":"I didn\u2019t choose the bug life. It was inherited.",
+    "ascii_art":"art\/ascii_art_0569.html"
+  },
+  {
+    "Joke":"I document just enough to confuse the next person.",
+    "ascii_art":"art\/ascii_art_0570.html"
+  },
+  {
+    "Joke":"I drink coffee for your safety.",
+    "ascii_art":"art\/ascii_art_0571.html"
+  },
+  {
+    "Joke":"I inherited this code. Please be kind.",
+    "ascii_art":"art\/ascii_art_0572.html"
+  },
+  {
+    "Joke":"I love deadlines. I like the whooshing sound they make as they fly by.",
+    "ascii_art":"art\/ascii_art_0573.html"
+  },
+  {
+    "Joke":"I swear I didn\u2019t touch anything!",
+    "ascii_art":"art\/ascii_art_0574.html"
+  },
+  {
+    "Joke":"I use 3 monitors\u20142 for code and 1 for documentation I don\u2019t read.",
+    "ascii_art":"art\/ascii_art_0575.html"
+  },
+  {
+    "Joke":"If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    "ascii_art":"art\/ascii_art_0576.html"
+  },
+  {
+    "Joke":"In C, a pointer error is just a Tuesday.",
+    "ascii_art":"art\/ascii_art_0577.html"
+  },
+  {
+    "Joke":"Is it plugged in?",
+    "ascii_art":"art\/ascii_art_0578.html"
+  },
+  {
+    "Joke":"It passed the linter, isn\u2019t that enough?",
+    "ascii_art":"art\/ascii_art_0579.html"
+  },
+  {
+    "Joke":"It works on my machine.",
+    "ascii_art":"art\/ascii_art_0580.html"
+  },
+  {
+    "Joke":"It\u2019s not my fault\u2014it\u2019s a legacy decision.",
+    "ascii_art":"art\/ascii_art_0581.html"
+  },
+  {
+    "Joke":"Java: write once, refactor everywhere.",
+    "ascii_art":"art\/ascii_art_0582.html"
+  },
+  {
+    "Joke":"JavaScript: where `0 == '0'` is true and `0 === '0'` is false.",
+    "ascii_art":"art\/ascii_art_0583.html"
+  },
+  {
+    "Joke":"Keyboard not responding. Press F1 to continue.",
+    "ascii_art":"art\/ascii_art_0584.html"
+  },
+  {
+    "Joke":"Let me remote in and Google it for you.",
+    "ascii_art":"art\/ascii_art_0585.html"
+  },
+  {
+    "Joke":"Let\u2019s just call it a soft launch.",
+    "ascii_art":"art\/ascii_art_0586.html"
+  },
+  {
+    "Joke":"Let\u2019s just reboot the project.",
+    "ascii_art":"art\/ascii_art_0587.html"
+  },
+  {
+    "Joke":"Lisp: where code is written with more parentheses than logic.",
+    "ascii_art":"art\/ascii_art_0588.html"
+  },
+  {
+    "Joke":"Monitoring looks good\u2026 which probably means it\u2019s broken.",
+    "ascii_art":"art\/ascii_art_0589.html"
+  },
+  {
+    "Joke":"My Wi-Fi is stable. My mood is not.",
+    "ascii_art":"art\/ascii_art_0590.html"
+  },
+  {
+    "Joke":"My backlog has a backlog.",
+    "ascii_art":"art\/ascii_art_0591.html"
+  },
+  {
+    "Joke":"My code is DRY\u2014Don\u2019t Repeat Yourself. Except in comments.",
+    "ascii_art":"art\/ascii_art_0592.html"
+  },
+  {
+    "Joke":"My code is like a poem. A very confusing one.",
+    "ascii_art":"art\/ascii_art_0593.html"
+  },
+  {
+    "Joke":"My dev environment has feelings. Mostly resentment.",
+    "ascii_art":"art\/ascii_art_0594.html"
+  },
+  {
+    "Joke":"My rubber duck knows more about this bug than I do.",
+    "ascii_art":"art\/ascii_art_0595.html"
+  },
+  {
+    "Joke":"My team uses agile, but our bugs are waterfall.",
+    "ascii_art":"art\/ascii_art_0596.html"
+  },
+  {
+    "Joke":"Nothing like deploying to prod to raise your heart rate.",
+    "ascii_art":"art\/ascii_art_0597.html"
+  },
+  {
+    "Joke":"NullPointerException: the ghost in the machine.",
+    "ascii_art":"art\/ascii_art_0598.html"
+  },
+  {
+    "Joke":"Off-by-one errors: the gateway bug.",
+    "ascii_art":"art\/ascii_art_0599.html"
+  },
+  {
+    "Joke":"Oh, that function? It\u2019s just there for vibes.",
+    "ascii_art":"art\/ascii_art_0600.html"
+  },
+  {
+    "Joke":"Permission denied. Just like my ideas in planning.",
+    "ascii_art":"art\/ascii_art_0601.html"
+  },
+  {
+    "Joke":"Premature optimization is the root of all evil. And most rewrites.",
+    "ascii_art":"art\/ascii_art_0602.html"
+  },
+  {
+    "Joke":"Production is just staging with higher stakes.",
+    "ascii_art":"art\/ascii_art_0603.html"
+  },
+  {
+    "Joke":"Push to prod, pray, and refresh.",
+    "ascii_art":"art\/ascii_art_0604.html"
+  },
+  {
+    "Joke":"Python is whitespace sensitive. So am I.",
+    "ascii_art":"art\/ascii_art_0605.html"
+  },
+  {
+    "Joke":"Real devs test in production.",
+    "ascii_art":"art\/ascii_art_0606.html"
+  },
+  {
+    "Joke":"Rollback is our real deployment strategy.",
+    "ascii_art":"art\/ascii_art_0607.html"
+  },
+  {
+    "Joke":"Rust doesn\u2019t let you do anything unsafe\u2014unless you ask nicely.",
+    "ascii_art":"art\/ascii_art_0608.html"
+  },
+  {
+    "Joke":"Scala: object-oriented existentialism.",
+    "ascii_art":"art\/ascii_art_0609.html"
+  },
+  {
+    "Joke":"Segmentation fault. So did my brain.",
+    "ascii_art":"art\/ascii_art_0610.html"
+  },
+  {
+    "Joke":"Stack Overflow is my co-pilot.",
+    "ascii_art":"art\/ascii_art_0611.html"
+  },
+  {
+    "Joke":"Tabs vs spaces: choose your hill to die on.",
+    "ascii_art":"art\/ascii_art_0612.html"
+  },
+  {
+    "Joke":"Tech support\u2019s secret tool: patience.",
+    "ascii_art":"art\/ascii_art_0613.html"
+  },
+  {
+    "Joke":"That\u2019s a known issue. We\u2019re not fixing it, but it\u2019s known.",
+    "ascii_art":"art\/ascii_art_0614.html"
+  },
+  {
+    "Joke":"That\u2019s not a bug, that\u2019s a feature request.",
+    "ascii_art":"art\/ascii_art_0615.html"
+  },
+  {
+    "Joke":"The best way to learn is to break something important.",
+    "ascii_art":"art\/ascii_art_0616.html"
+  },
+  {
+    "Joke":"The first 90% of the project takes 90% of the time. The last 10% takes the other 90%.",
+    "ascii_art":"art\/ascii_art_0617.html"
+  },
+  {
+    "Joke":"The logs are clean. That\u2019s more suspicious.",
+    "ascii_art":"art\/ascii_art_0618.html"
+  },
+  {
+    "Joke":"The sprint ends. The bugs remain.",
+    "ascii_art":"art\/ascii_art_0619.html"
+  },
+  {
+    "Joke":"The stack overflowed. So did my patience.",
+    "ascii_art":"art\/ascii_art_0620.html"
+  },
+  {
+    "Joke":"There\u2019s no place like 127.0.0.1.",
+    "ascii_art":"art\/ascii_art_0621.html"
+  },
+  {
+    "Joke":"This standup could\u2019ve been a lie-down.",
+    "ascii_art":"art\/ascii_art_0622.html"
+  },
+  {
+    "Joke":"Try clearing your cache and cookies. It fixes more than you\u2019d think.",
+    "ascii_art":"art\/ascii_art_0623.html"
+  },
+  {
+    "Joke":"TypeScript: JavaScript with trust issues.",
+    "ascii_art":"art\/ascii_art_0624.html"
+  },
+  {
+    "Joke":"Unexpected token. Much like my last coffee bill.",
+    "ascii_art":"art\/ascii_art_0625.html"
+  },
+  {
+    "Joke":"Unhandled exception. Like my feelings.",
+    "ascii_art":"art\/ascii_art_0626.html"
+  },
+  {
+    "Joke":"User error: still the most common issue.",
+    "ascii_art":"art\/ascii_art_0627.html"
+  },
+  {
+    "Joke":"We deploy on Fridays. We also like chaos.",
+    "ascii_art":"art\/ascii_art_0628.html"
+  },
+  {
+    "Joke":"We use canary deploys. The canary\u2019s not looking well.",
+    "ascii_art":"art\/ascii_art_0629.html"
+  },
+  {
+    "Joke":"We\u2019ll fix that in the next sprint.",
+    "ascii_art":"art\/ascii_art_0630.html"
+  },
+  {
+    "Joke":"Yes, I need to see the error. No, a photo of your monitor won\u2019t help.",
+    "ascii_art":"art\/ascii_art_0631.html"
+  },
+  {
+    "Joke":"\u201cJust one more deploy\u201d \u2014 every Friday at 4:59 PM.",
+    "ascii_art":"art\/ascii_art_0632.html"
+  }
+]

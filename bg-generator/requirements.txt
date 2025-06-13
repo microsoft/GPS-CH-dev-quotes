@@ -1,0 +1,5 @@
+ascii-magic==2.3.0
+azure-identity==1.23.0
+openai==1.86.0
+pandas==2.3.0
+openpyxl==3.1.5
