@@ -10,7 +10,7 @@ A retro 80s-style web app that generates random developer quotes with an LLM-lik
 ## Usage
 Run  `python3 -m http.server -d docs` in your browser, or visit the live site:
 
-👉 [View on GitHub Pages](https://maheyner.github.io/dev-quotes/)
+👉 [View on GitHub Pages](https://microsoft.github.io/GPS-CH-dev-quotes/)
 
 ## How it works
 - All code is in the `docs/` folder
